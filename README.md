@@ -1,0 +1,1 @@
+BN的poscar文件
